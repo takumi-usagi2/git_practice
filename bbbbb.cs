@@ -1,10 +1,7 @@
 // aaa
-public ab = 4;
+public ab = 43333333;
 
-
-public cc = 6;
-
-
+public cc = 63333333;
 
 
 [Serializefield] abstt;
