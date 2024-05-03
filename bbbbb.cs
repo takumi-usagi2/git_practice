@@ -6,3 +6,5 @@ public cc = 63333333;
 
 
 [Serializefield] abstt;
+[Serializefield] bbnnn;
+[Serializefield] usagi2 = {};
